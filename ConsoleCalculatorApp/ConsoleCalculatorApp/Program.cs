@@ -49,12 +49,25 @@ namespace ConsoleCalculatorApp
 
         private static double Add(double number1, double number2)
         {
-            throw new NotImplementedException();
+            double sum = number1 + number2;
+            return sum;
         }
 
         private static double Divide(double number1, double number2)
         {
-            throw new NotImplementedException();
+            double divide = 0.0;
+            if (number2==0)
+            {
+               throw new Exception("Cannot divide by zero");
+            }
+
+            else
+
+            {
+                divide = number1 / number2;
+            }
+
+            return divide;
         }
 
         private static double Multiply(double number1, double number2)
