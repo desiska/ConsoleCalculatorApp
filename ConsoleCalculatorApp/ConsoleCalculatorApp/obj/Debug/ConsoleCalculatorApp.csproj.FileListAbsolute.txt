@@ -1,0 +1,7 @@
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe.config
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.pdb
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.exe
+C:\Users\Niki\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.pdb

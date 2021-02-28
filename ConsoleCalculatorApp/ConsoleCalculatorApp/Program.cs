@@ -44,7 +44,7 @@ namespace ConsoleCalculatorApp
 
         private static double Subtract(double number1, double number2)
         {
-            throw new NotImplementedException();
+            return number1 - number2;
         }
 
         private static double Add(double number1, double number2)
@@ -59,7 +59,7 @@ namespace ConsoleCalculatorApp
 
         private static double Multiply(double number1, double number2)
         {
-            throw new NotImplementedException();
+            return number1 * number2;
         }
     }
 }
