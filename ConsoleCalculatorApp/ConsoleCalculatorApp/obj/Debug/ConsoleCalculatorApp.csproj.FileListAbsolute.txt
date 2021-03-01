@@ -1,7 +1,0 @@
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe.config
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.exe
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\bin\Debug\ConsoleCalculatorApp.pdb
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csprojAssemblyReference.cache
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.csproj.CoreCompileInputs.cache
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.exe
-C:\Users\Acer\Documents\GitHub\ConsoleCalculatorApp\ConsoleCalculatorApp\ConsoleCalculatorApp\obj\Debug\ConsoleCalculatorApp.pdb
